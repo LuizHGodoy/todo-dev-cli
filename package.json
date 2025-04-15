@@ -1,0 +1,23 @@
+{
+  "name": "todo-dev-cli",
+  "version": "1.0.0",
+  "description": "Todo list minimalista para devs via CLI",
+  "main": "todo-dev.js",
+  "bin": {
+    "todo": "./todo-dev.js"
+  },
+  "type": "commonjs",
+  "author": "Luiz",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "todo",
+    "developer",
+    "tasks",
+    "terminal"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0"
+  }
+}
