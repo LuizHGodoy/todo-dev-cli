@@ -1,5 +1,7 @@
 # 🧠 todo-dev
 
+[![npm version](https://badge.fury.io/js/ttodo-cli.svg)](https://www.npmjs.com/package/ttodo-cli)
+
 Um CLI minimalista para desenvolvedores gerenciarem tarefas de forma rápida e direta no terminal.
 Ideal pra acompanhar o fluxo de PRs, bugs, refatorações ou qualquer coisa que você tá tramando no código.
 Funciona no Windows 11 como um `.exe` com wrapper `.cmd` global.
