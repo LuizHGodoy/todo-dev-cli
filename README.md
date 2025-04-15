@@ -1,6 +1,6 @@
 # 🧠 todo-dev
 
-[![npm version](https://badge.fury.io/js/ttodo-cli.svg)](https://www.npmjs.com/package/ttodo-cli)
+[![npm](https://img.shields.io/npm/v/ttodo-cli)](https://www.npmjs.com/package/ttodo-cli)
 
 Um CLI minimalista para desenvolvedores gerenciarem tarefas de forma rápida e direta no terminal.
 Ideal pra acompanhar o fluxo de PRs, bugs, refatorações ou qualquer coisa que você tá tramando no código.
