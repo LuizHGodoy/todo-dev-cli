@@ -1,8 +1,8 @@
 {
-  "name": "todo-dev-cli",
+  "name": "ttodo-cli",
   "version": "1.0.0",
   "description": "Todo list minimalista para devs via CLI",
-  "main": "todo-dev.js",
+  "main": "todo.js",
   "bin": {
     "todo": "./todo-dev.js"
   },
