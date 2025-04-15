@@ -173,7 +173,7 @@ program
   .action(async () => {
     const data = loadData();
     if (data.length === 0) {
-      console.log(chalk.gray("Nenhuma tarefa para remover."));
+      console.log(chalk.gray("Nenhuma tarefa para remover"));
       return;
     }
 
