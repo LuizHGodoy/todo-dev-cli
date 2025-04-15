@@ -31,11 +31,13 @@ todo list
 
 ```bash
 todo add "Texto da tarefa"
+todo add             # modo interativo para digitar a tarefa e tags
 todo list
 todo list --status "feito"
 todo done <index>
 todo status <index> "<novo status>"
 todo remove <index>
+todo remove          # modo interativo com seleção da tarefa
 todo clear
 ```
 
