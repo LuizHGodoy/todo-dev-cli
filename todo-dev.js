@@ -232,7 +232,7 @@ program
       output: process.stdout,
     });
     rl.question(
-      chalk.red("Tem certeza que deseja remover todas as tarefas? (s/n): "),
+      chalk.red("Tem certeza que deseja remover todas as tarefas? (S/n): "),
       (answer) => {
         if (answer.toLowerCase() === "s" || answer.toLowerCase() === "sim") {
           saveData([]);
